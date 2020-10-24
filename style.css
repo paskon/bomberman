@@ -5,14 +5,8 @@
   font-family: 'Acumin rpro', sans-serif;
 }
 
-canvas{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.game{
   width: 50%;
-  position: absolute;
-  top:0;
-  left:0;
 }
 
 .h1 {
