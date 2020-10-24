@@ -5,8 +5,8 @@
   font-family: 'Acumin rpro', sans-serif;
 }
 
-.game{
-  width: 50%;
+canvas{
+  padding: 120;
 }
 
 .h1 {
